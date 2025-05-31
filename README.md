@@ -106,8 +106,7 @@ Copy
 Edit
 http://localhost/your-project-folder/
 🔐 7. Default Login (If applicable)
-Admin: admin@example.com / admin123
-
-User: user@example.com / user123
+Admin: admin123
+User: admin
 
 ⚠️ Don’t forget to change default credentials and configure permissions for production.
